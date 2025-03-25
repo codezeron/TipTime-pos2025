@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TipTime-pos2025</string>
+    <string name="app_name">SmartTip</string>
     <string name="cost_of_service">Cost of Service</string>
     <string name="round_tip">Round tip?</string>
     <string name="calculate">CALCULATE</string>
